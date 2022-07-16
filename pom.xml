@@ -86,6 +86,13 @@
     </repository>
   </repositories>
   <dependencies>
+
+    <dependency>
+      <groupId>com.google.cloud</groupId>
+      <artifactId>google-cloud-bigquery</artifactId>
+      <version>2.13.8</version>
+    </dependency>
+
     <!--
     paper-api (<= 1.16): com.destroystokyo.paper
     spigot-api: org.spigotmc
